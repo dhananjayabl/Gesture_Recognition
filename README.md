@@ -27,6 +27,7 @@
     - 3D convolution
     - SimpleCNN with GRU/LSTM
     - Pretrained CNN with GRU/LSTM
+        - InceptionV3 is used as pretrained model
 - with limited experimentation as conducted above it is difficult to determine which model is best compared to other
 - All 3 types of modeling has produced val accuracy > 0.9 
 - It is advisable to run more experimentations and averaging the performance over multiple runs for particular model configuration
